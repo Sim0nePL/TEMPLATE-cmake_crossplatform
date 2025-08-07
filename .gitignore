@@ -1,5 +1,5 @@
 # Template directories
-build/*
+build/
 bin/*
 
 # Classic C/C++ .gitignore
